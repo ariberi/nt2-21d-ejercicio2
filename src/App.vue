@@ -1,5 +1,5 @@
 <template>
-    <div class="container-fluid mt-3">
+    <div class="container-fluid">
         <Busqueda/>
     </div>
 
@@ -17,9 +17,6 @@ export default {
 };
 
 </script>
-
-
-
 
 <style scoped>
 
